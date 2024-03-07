@@ -121,9 +121,14 @@ void OnUpdate()
 Con este script obtenemos el siguiente resultado:
 
 
+https://github.com/TheArmega/Practica-Gazebo/assets/38068010/29543cbf-b1ed-4b62-a2d6-2a29deafa0e3
+
+
+
 
 ## Modelo TurtleBot3
 He probado a cambiar el modelo del robot al TurtleBot3, el resultado es el siguiente:
+![modeloTurtleBot](https://github.com/TheArmega/Practica-Gazebo/assets/38068010/72c9fc04-50dc-4850-903e-5f051ceb84d2)
 
 
 ## Algoritmo de exploración
@@ -218,3 +223,20 @@ def callback_feedback(feedback, goal_client):
 ```
 ## Resultados algoritmo de exploración
 Estos son los resultados que he obtenido:
+`Mapa 1`
+
+
+https://github.com/TheArmega/Practica-Gazebo/assets/38068010/7352209c-a15b-49db-a967-560fa6b5c301
+
+
+`Mapa 2`
+
+
+https://github.com/TheArmega/Practica-Gazebo/assets/38068010/ac882cce-2282-45f8-ad22-b3c8161f7080
+
+
+`Mapa 3`
+
+
+https://github.com/TheArmega/Practica-Gazebo/assets/38068010/a8d685a0-2245-47b4-a3e2-590abe42bb18
+
