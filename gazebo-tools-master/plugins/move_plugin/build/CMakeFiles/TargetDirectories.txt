@@ -1,0 +1,3 @@
+/home/teo/PracticaGazebo/gazebo-tools-master/plugins/move_plugin/build/CMakeFiles/move_plugin.dir
+/home/teo/PracticaGazebo/gazebo-tools-master/plugins/move_plugin/build/CMakeFiles/edit_cache.dir
+/home/teo/PracticaGazebo/gazebo-tools-master/plugins/move_plugin/build/CMakeFiles/rebuild_cache.dir
